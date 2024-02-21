@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Lists\ListInput\bin\Debug\net8.0\ListInput.exe
+C:\Users\encho\source\repos\Lists\ListInput\bin\Debug\net8.0\ListInput.deps.json
+C:\Users\encho\source\repos\Lists\ListInput\bin\Debug\net8.0\ListInput.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\ListInput\bin\Debug\net8.0\ListInput.dll
+C:\Users\encho\source\repos\Lists\ListInput\bin\Debug\net8.0\ListInput.pdb
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ListInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ListInput.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ListInput.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ListInput.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ListInput.dll
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\refint\ListInput.dll
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ListInput.pdb
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ListInput.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\ListInput\obj\Debug\net8.0\ref\ListInput.dll

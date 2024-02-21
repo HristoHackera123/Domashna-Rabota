@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\bin\Debug\net8.0\ListOfNamesCompl.exe
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\bin\Debug\net8.0\ListOfNamesCompl.deps.json
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\bin\Debug\net8.0\ListOfNamesCompl.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\bin\Debug\net8.0\ListOfNamesCompl.dll
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\bin\Debug\net8.0\ListOfNamesCompl.pdb
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ListOfNamesCompl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ListOfNamesCompl.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ListOfNamesCompl.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ListOfNamesCompl.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ListOfNamesCompl.dll
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\refint\ListOfNamesCompl.dll
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ListOfNamesCompl.pdb
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ListOfNamesCompl.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\ListOfNamesCompl\obj\Debug\net8.0\ref\ListOfNamesCompl.dll

@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Lists\HighestRow\bin\Debug\net8.0\HighestRow.exe
+C:\Users\encho\source\repos\Lists\HighestRow\bin\Debug\net8.0\HighestRow.deps.json
+C:\Users\encho\source\repos\Lists\HighestRow\bin\Debug\net8.0\HighestRow.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\HighestRow\bin\Debug\net8.0\HighestRow.dll
+C:\Users\encho\source\repos\Lists\HighestRow\bin\Debug\net8.0\HighestRow.pdb
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\HighestRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\HighestRow.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\HighestRow.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\HighestRow.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\HighestRow.dll
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\refint\HighestRow.dll
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\HighestRow.pdb
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\HighestRow.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\HighestRow\obj\Debug\net8.0\ref\HighestRow.dll

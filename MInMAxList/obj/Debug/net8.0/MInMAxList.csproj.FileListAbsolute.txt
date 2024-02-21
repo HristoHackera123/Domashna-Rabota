@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Lists\MInMAxList\bin\Debug\net8.0\MInMAxList.exe
+C:\Users\encho\source\repos\Lists\MInMAxList\bin\Debug\net8.0\MInMAxList.deps.json
+C:\Users\encho\source\repos\Lists\MInMAxList\bin\Debug\net8.0\MInMAxList.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\MInMAxList\bin\Debug\net8.0\MInMAxList.dll
+C:\Users\encho\source\repos\Lists\MInMAxList\bin\Debug\net8.0\MInMAxList.pdb
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\MInMAxList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\MInMAxList.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\MInMAxList.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\MInMAxList.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\MInMAxList.dll
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\refint\MInMAxList.dll
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\MInMAxList.pdb
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\MInMAxList.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\MInMAxList\obj\Debug\net8.0\ref\MInMAxList.dll

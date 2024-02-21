@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\bin\Debug\net8.0\ListOfEvenNumbers.exe
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\bin\Debug\net8.0\ListOfEvenNumbers.deps.json
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\bin\Debug\net8.0\ListOfEvenNumbers.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\bin\Debug\net8.0\ListOfEvenNumbers.dll
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\bin\Debug\net8.0\ListOfEvenNumbers.pdb
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ListOfEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ListOfEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ListOfEvenNumbers.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ListOfEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ListOfEvenNumbers.dll
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\refint\ListOfEvenNumbers.dll
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ListOfEvenNumbers.pdb
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ListOfEvenNumbers.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\ListOfEvenNumbers\obj\Debug\net8.0\ref\ListOfEvenNumbers.dll

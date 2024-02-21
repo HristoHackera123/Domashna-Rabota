@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Lists\ReverseSum\bin\Debug\net8.0\ReverseSum.exe
+C:\Users\encho\source\repos\Lists\ReverseSum\bin\Debug\net8.0\ReverseSum.deps.json
+C:\Users\encho\source\repos\Lists\ReverseSum\bin\Debug\net8.0\ReverseSum.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\ReverseSum\bin\Debug\net8.0\ReverseSum.dll
+C:\Users\encho\source\repos\Lists\ReverseSum\bin\Debug\net8.0\ReverseSum.pdb
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ReverseSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ReverseSum.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ReverseSum.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ReverseSum.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ReverseSum.dll
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\refint\ReverseSum.dll
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ReverseSum.pdb
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ReverseSum.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\ReverseSum\obj\Debug\net8.0\ref\ReverseSum.dll
