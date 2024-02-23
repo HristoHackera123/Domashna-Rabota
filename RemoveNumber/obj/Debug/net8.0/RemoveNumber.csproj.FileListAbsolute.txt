@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\bin\Debug\net8.0\RemoveNumber.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\bin\Debug\net8.0\RemoveNumber.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\bin\Debug\net8.0\RemoveNumber.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\bin\Debug\net8.0\RemoveNumber.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\bin\Debug\net8.0\RemoveNumber.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.sourcelink.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\refint\RemoveNumber.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\RemoveNumber.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Domashna-Rabota\RemoveNumber\obj\Debug\net8.0\ref\RemoveNumber.dll

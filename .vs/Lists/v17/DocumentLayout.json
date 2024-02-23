@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB878CD1-6AB8-4969-9C26-548CA2984B2C}|ListCreate\\ListCreate.csproj|c:\\users\\students-1212-2\\pictures\\camera roll\\hristomir9a\\domashna-rabota\\listcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB878CD1-6AB8-4969-9C26-548CA2984B2C}|ListCreate\\ListCreate.csproj|solutionrelative:listcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D5D1995-D04B-48C3-BFF5-015603CC1C9D}|ReverseSum\\ReverseSum.csproj|c:\\users\\students-1212-2\\pictures\\camera roll\\hristomir9a\\domashna-rabota\\reversesum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D5D1995-D04B-48C3-BFF5-015603CC1C9D}|ReverseSum\\ReverseSum.csproj|solutionrelative:reversesum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B0EE30F-C074-484F-9DEE-186A825A8967}|ListOfNamesCompl\\ListOfNamesCompl.csproj|C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\listofnamescompl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0EE30F-C074-484F-9DEE-186A825A8967}|ListOfNamesCompl\\ListOfNamesCompl.csproj|solutionrelative:listofnamescompl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F45A3FE-219B-4788-A0C0-0615EB1C8F80}|HighestRow\\HighestRow.csproj|C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\highestrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F45A3FE-219B-4788-A0C0-0615EB1C8F80}|HighestRow\\HighestRow.csproj|solutionrelative:highestrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F00EE2-0442-40A7-8304-8A2304363287}|MInMAxList\\MInMAxList.csproj|C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\minmaxlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F00EE2-0442-40A7-8304-8A2304363287}|MInMAxList\\MInMAxList.csproj|solutionrelative:minmaxlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F458BFB-CEF9-4D47-BA1E-4BEDCEB87E6E}|ListOfEvenNumbers\\ListOfEvenNumbers.csproj|C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\listofevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F458BFB-CEF9-4D47-BA1E-4BEDCEB87E6E}|ListOfEvenNumbers\\ListOfEvenNumbers.csproj|solutionrelative:listofevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD33E34-0006-42B4-BC08-A5DA2B0EBAA7}|ListInput\\ListInput.csproj|C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\listinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD33E34-0006-42B4-BC08-A5DA2B0EBAA7}|ListInput\\ListInput.csproj|solutionrelative:listinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C07F451B-8A8A-40ED-B858-C260FF91E620}|ListOfNames\\ListOfNames.csproj|C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\listofnames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07F451B-8A8A-40ED-B858-C260FF91E620}|ListOfNames\\ListOfNames.csproj|solutionrelative:listofnames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12AB4714-6A80-4737-BE34-5B1B62FD327B}|RemoveNumber\\RemoveNumber.csproj|c:\\users\\students-1212-2\\pictures\\camera roll\\hristomir9a\\domashna-rabota\\removenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AB4714-6A80-4737-BE34-5B1B62FD327B}|RemoveNumber\\RemoveNumber.csproj|solutionrelative:removenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,99 +24,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListCreate\\Program.cs",
-              "RelativeDocumentMoniker": "ListCreate\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListCreate\\Program.cs",
-              "RelativeToolTip": "ListCreate\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\RemoveNumber\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\RemoveNumber\\Program.cs",
+              "RelativeToolTip": "RemoveNumber\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:46.976Z",
+              "WhenOpened": "2024-02-23T10:15:07.308Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ReverseSum\\Program.cs",
-              "RelativeDocumentMoniker": "ReverseSum\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ReverseSum\\Program.cs",
-              "RelativeToolTip": "ReverseSum\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:19.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\HighestRow\\Program.cs",
-              "RelativeDocumentMoniker": "HighestRow\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\HighestRow\\Program.cs",
-              "RelativeToolTip": "HighestRow\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:20.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\MInMAxList\\Program.cs",
-              "RelativeDocumentMoniker": "MInMAxList\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\MInMAxList\\Program.cs",
-              "RelativeToolTip": "MInMAxList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:20.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListOfEvenNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "ListOfEvenNumbers\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListOfEvenNumbers\\Program.cs",
-              "RelativeToolTip": "ListOfEvenNumbers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:20.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListOfNamesCompl\\Program.cs",
-              "RelativeDocumentMoniker": "ListOfNamesCompl\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListOfNamesCompl\\Program.cs",
-              "RelativeToolTip": "ListOfNamesCompl\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:20.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListOfNames\\Program.cs",
-              "RelativeDocumentMoniker": "ListOfNames\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListOfNames\\Program.cs",
-              "RelativeToolTip": "ListOfNames\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:20.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListInput\\Program.cs",
-              "RelativeDocumentMoniker": "ListInput\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Domashna-Rabota\\ListInput\\Program.cs",
-              "RelativeToolTip": "ListInput\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:03:20.214Z"
             }
           ]
         },
