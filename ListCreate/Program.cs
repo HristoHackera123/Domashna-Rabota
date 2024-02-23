@@ -16,12 +16,12 @@
             //{
             //    Console.WriteLine(colorList[i]);
             //}
-            foreach(string chervenokvadratcheobikaljashtoizspisuka in colorList)
+            foreach (string chervenokvadratcheobikaljashtoizspisuka in colorList)
             {
                 Console.WriteLine(chervenokvadratcheobikaljashtoizspisuka);
             }
 
-            Console.WriteLine($"Choose which element to delete (from 0-{colorList.Count-1})");
+            Console.WriteLine($"Choose which element to delete (from 0-{colorList.Count - 1})");
             colorList.RemoveAt(int.Parse(Console.ReadLine()));
 
             foreach (string chervenokvadratcheobikaljashtoizspisuka in colorList)

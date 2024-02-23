@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MInMAxList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c3319c8d779712390fac196482d8a1b624c50a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MInMAxList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MInMAxList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
