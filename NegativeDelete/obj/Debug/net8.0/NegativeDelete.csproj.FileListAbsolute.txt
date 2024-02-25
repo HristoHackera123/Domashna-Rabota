@@ -1,0 +1,15 @@
+C:\Users\encho\source\repos\Lists\NegativeDelete\bin\Debug\net8.0\NegativeDelete.exe
+C:\Users\encho\source\repos\Lists\NegativeDelete\bin\Debug\net8.0\NegativeDelete.deps.json
+C:\Users\encho\source\repos\Lists\NegativeDelete\bin\Debug\net8.0\NegativeDelete.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\NegativeDelete\bin\Debug\net8.0\NegativeDelete.dll
+C:\Users\encho\source\repos\Lists\NegativeDelete\bin\Debug\net8.0\NegativeDelete.pdb
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.sourcelink.json
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.dll
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\refint\NegativeDelete.dll
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.pdb
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\NegativeDelete.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\NegativeDelete\obj\Debug\net8.0\ref\NegativeDelete.dll

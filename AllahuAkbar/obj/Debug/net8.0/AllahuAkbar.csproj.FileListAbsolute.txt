@@ -1,0 +1,15 @@
+C:\Users\encho\source\repos\Lists\AllahuAkbar\bin\Debug\net8.0\AllahuAkbar.exe
+C:\Users\encho\source\repos\Lists\AllahuAkbar\bin\Debug\net8.0\AllahuAkbar.deps.json
+C:\Users\encho\source\repos\Lists\AllahuAkbar\bin\Debug\net8.0\AllahuAkbar.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\AllahuAkbar\bin\Debug\net8.0\AllahuAkbar.dll
+C:\Users\encho\source\repos\Lists\AllahuAkbar\bin\Debug\net8.0\AllahuAkbar.pdb
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.sourcelink.json
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.dll
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\refint\AllahuAkbar.dll
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.pdb
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\AllahuAkbar.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\AllahuAkbar\obj\Debug\net8.0\ref\AllahuAkbar.dll

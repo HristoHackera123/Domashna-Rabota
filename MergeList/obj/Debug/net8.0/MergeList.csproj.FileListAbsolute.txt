@@ -1,0 +1,15 @@
+C:\Users\encho\source\repos\Lists\MergeList\bin\Debug\net8.0\MergeList.exe
+C:\Users\encho\source\repos\Lists\MergeList\bin\Debug\net8.0\MergeList.deps.json
+C:\Users\encho\source\repos\Lists\MergeList\bin\Debug\net8.0\MergeList.runtimeconfig.json
+C:\Users\encho\source\repos\Lists\MergeList\bin\Debug\net8.0\MergeList.dll
+C:\Users\encho\source\repos\Lists\MergeList\bin\Debug\net8.0\MergeList.pdb
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.AssemblyInfo.cs
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.sourcelink.json
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.dll
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\refint\MergeList.dll
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.pdb
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\MergeList.genruntimeconfig.cache
+C:\Users\encho\source\repos\Lists\MergeList\obj\Debug\net8.0\ref\MergeList.dll
