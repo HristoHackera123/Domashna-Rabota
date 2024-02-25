@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoveNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd1a9dbed9d913ae7bf6d99acc63bf56b1908a50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ae6adcc879d987537c38660dcadbc1d05ba2111")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoveNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoveNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

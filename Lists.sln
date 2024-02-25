@@ -21,11 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCreate", "ListCreate\Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNumber", "RemoveNumber\RemoveNumber.csproj", "{12AB4714-6A80-4737-BE34-5B1B62FD327B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegativeDelete", "NegativeDelete\NegativeDelete.csproj", "{DE1F3BCA-4FCC-41FE-BB7F-4A068B114A61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NegativeDeleteHW", "NegativeDelete\NegativeDeleteHW.csproj", "{DE1F3BCA-4FCC-41FE-BB7F-4A068B114A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeList", "MergeList\MergeList.csproj", "{8256D093-9A51-4FB7-96D7-FB73534FB3AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeList(HW)", "MergeList\MergeList(HW).csproj", "{8256D093-9A51-4FB7-96D7-FB73534FB3AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllahuAkbar", "AllahuAkbar\AllahuAkbar.csproj", "{24D1D433-5D18-4873-AF86-510962B951BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllahuAkbarHW", "AllahuAkbar\AllahuAkbarHW.csproj", "{24D1D433-5D18-4873-AF86-510962B951BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
